@@ -29,7 +29,7 @@ a {
 a,
 a:visited,
 a:hover {
-  color: teal;
+  color: #65051F;
   text-decoration: none;
   border-bottom: 2px solid currentColor;
 }
@@ -44,7 +44,7 @@ nav {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  background: #f3f3f3;
+  background: #FDE4F2;
   padding: 1rem;
   padding-right: 5rem;
   -ms-flex-wrap: wrap;
@@ -74,12 +74,17 @@ nav {
 }
 
 .intro__hed {
+  font-family: "superior-title", sans-serif;
+  font-weight: 700;
+  font-style: normal;
   font-size: 2em;
   margin: 2rem auto 0.5rem auto;
+  color: #65051F
 }
 
 .intro__dek {
-  color: #8a8a8a;
+  color: #E68BBE;
+  font-family: Oxygen, sans-serif;
 }
 
 #intro {
@@ -88,6 +93,8 @@ nav {
 
 #outro {
   height: 500px;
+  color: #65051F;
+  background-color: #FDE4F2
 }
 
 @media (min-width: 840px) {
