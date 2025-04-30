@@ -68,8 +68,9 @@ nav {
 }
 
 #intro {
-  max-width: 40rem;
-  margin: 1rem auto;
+  background-color: #65051F;
+  max-width: auto;
+  height: 125px;
   text-align: center;
 }
 
@@ -78,23 +79,23 @@ nav {
   font-weight: 700;
   font-style: normal;
   font-size: 2em;
-  margin: 2rem auto 0.5rem auto;
+  margin: 2rem auto .5rem auto;
   text-align: center;
-  color: #65051F
+  color: #ffffff
 }
 
 .intro__dek {
-  color: #E68BBE;
+  color: #FDE4F2;
   font-family: Oxygen, sans-serif;
   text-align: center;
 }
 
 #intro {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
 #outro {
-  height: 500px;
+  height: 250px;
   color: #65051F;
   background-color: #FDE4F2
 }
