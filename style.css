@@ -79,9 +79,10 @@ nav {
   font-weight: 700;
   font-style: normal;
   font-size: 2em;
-  margin: 2rem auto .5rem auto;
   text-align: center;
-  color: #ffffff
+  color: #ffffff;
+  padding-top: 1rem;
+  margin: 0 auto 0.5rem auto;
 }
 
 .intro__dek {
@@ -92,6 +93,7 @@ nav {
 
 #intro {
   margin-bottom: 0px;
+
 }
 
 #outro {
