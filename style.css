@@ -79,12 +79,14 @@ nav {
   font-style: normal;
   font-size: 2em;
   margin: 2rem auto 0.5rem auto;
+  text-align: center;
   color: #65051F
 }
 
 .intro__dek {
   color: #E68BBE;
   font-family: Oxygen, sans-serif;
+  text-align: center;
 }
 
 #intro {
