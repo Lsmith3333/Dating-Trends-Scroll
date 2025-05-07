@@ -70,7 +70,11 @@ nav {
 #intro {
   background-color: #65051F;
   max-width: auto;
-  height: 125px;
+  height: 165px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: center;
 }
 
